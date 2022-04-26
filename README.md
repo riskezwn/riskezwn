@@ -22,7 +22,7 @@
 ### :man_technologist: About Me :
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
-- :telescope: I' m studying front-end web development
+- :telescope: I' m studying front-end web development, React and Next.JS lover
 - :seedling: Exploring full-stack development
 - :zap: In my free time I like to learn about UX
 - :speech_balloon: Ask me about anything, I am happy to help
